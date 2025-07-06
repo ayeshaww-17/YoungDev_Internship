@@ -89,5 +89,4 @@ B: TASK
 https://www.figma.com/design/Uwy28VmNMEzER5PpukrXkW/Leaning-Figma?node-id=0-1&m=dev&t=334g8LvyrGhVZGI4-1
 
 
-   DESIGN THINKING
-   DOUBLE DIAMOND MODEL
+  
